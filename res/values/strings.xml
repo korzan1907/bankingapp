@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CA Banking App</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">test</string>
+    <!-- <string name="hello_world">Hello world!</string>-->
+    
+    <string name="listview"></string>
+    <string name="shared_user_label">MSSO User Label</string>
+    <string name="btnCurrentState">Current state of the application:</string>
+    <string name="btnProductEndpoint">Access Bank Accounts</string>
+    <string name="btnUserInfoEndpoint">Access user info endpoint</string>
+    <string name="btnFooEndpoint">Access Aramco API</string>
+    <string name="btnClearState">Clear keychain</string>
+	<string name="btnLogout">Logout client</string>
+	<string name="btnLogoutClient">Logout Client</string>
+	<string name="btnUnregisterDevice">Unregister device</string>
+	<string name="txtViewKeyChain">Message board......</string>
+	<string name="chkboxSsoEnable">is SSO Enabled</string>
+	<string name="sharedUserLabel">CA Technologies</string>
+	<string name="btnPopup">Popup</string>
+</resources>
